@@ -9,7 +9,7 @@ class Shoe
   def condition(condition = "tattered")
     @condition = condition
 end
-  def cobble(condition)
+  def cobble
     puts "Your shoe is as good as new!"
   end
 
