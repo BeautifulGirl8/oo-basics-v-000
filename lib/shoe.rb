@@ -10,7 +10,4 @@ class Shoe
     puts "the shoes has been repaired"
   end
 
-  
-  def
-
-    
+end
