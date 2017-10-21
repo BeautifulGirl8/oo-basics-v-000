@@ -7,11 +7,10 @@ class Shoe
   end
 
   def condition(condition = "new")
-    @condition = condition 
+    @condition = condition
 
   def cobble
     puts "Your shoe is as good as new!"
-
   end
 
 end
