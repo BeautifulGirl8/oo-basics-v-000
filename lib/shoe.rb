@@ -15,5 +15,4 @@ end
       @condition = new
     end
   end
-
 end
